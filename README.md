@@ -1,7 +1,7 @@
-# E-commerce Sales Dashboard
+# 📊 E-commerce Sales Dashboard
 
 ## Project Overview
-This project presents an interactive E-commerce Sales Dashboard created using Microsoft Excel.
+This project presents an interactive E-commerce Sales Dashboard built using Microsoft Excel.
 
 ## Tools Used
 - Microsoft Excel
@@ -10,12 +10,19 @@ This project presents an interactive E-commerce Sales Dashboard created using Mi
 - Slicers
 - Data Cleaning
 
-## Dashboard Pages
-- Home
-- Overview
-- Customer Analysis
-- Inventory Analysis
-- Geographic Analysis
+## Dashboard Screenshots
 
-## Project Images
-The dashboard screenshots are included in this repository.
+### Home
+![Home](home.jpeg)
+
+### Overview
+![Overview](over%20view.jpeg)
+
+### Customer Analysis
+![Customer](customer.jpeg)
+
+### Inventory Analysis
+![Inventory](inventory.jpeg)
+
+### Geographic Analysis
+![Geographic](Geographic.jpeg)
